@@ -6,6 +6,10 @@ Laravel Base.
 
 Simple Laravel CRUD dengan Authentication menggunakan Vue dan Inertia JS.
 
+![Login Page](https://github.com/irfansyah-r/laravel-inertia/blob/main/preview/Login.png?raw=true)
+
+![Dashboard Page](https://github.com/irfansyah-r/laravel-inertia/blob/main/preview/Dashboard.png?raw=true)
+
 ## Getting Started
 
 ### Dependencies
